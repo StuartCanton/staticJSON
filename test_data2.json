@@ -1,0 +1,62 @@
+{
+	"version":{"created":"19/07/2021 12:35:10"},
+
+"Hospitals":[
+		{
+			"id":1,
+			"name":"Bronglais General Hospital",
+			"type":"Major Acute",
+			"open24hrs":true,
+			"aAndeUnit":"Major A&E",
+			"address":"Caradoc Road, Aberystwyth",
+			"postcode":"SY23 1ER",
+			"mainNumber":"01970 623131",
+			"wards":[],
+			"IV":"NywsGcOlES84/LTMdiLQYbowjJQbef3Lk9cVWL466fs=",
+			"":,
+			"Decoded":"01970 623131"
+		},
+		{
+			"id":2,
+			"name":"Glan Clwyd Hospital",
+			"type":"Major Acute",
+			"open24hrs":true,
+			"aAndeUnit":"Major A&E",
+			"address":"Rhuddlan Road, Bodelwyddan, Rhyl, Denbighshire",
+			"postcode":"LL18 5UJ",
+			"mainNumber":"01745 583910",
+			"wards":[],
+			"IV":"v//eLs/w8hDpo0m9G3rWWMDurzso3KucttmFaZyhqXA=",
+			"":,
+			"Decoded":"01745 583910"
+		},
+		{
+			"id":3,
+			"name":"Glangwili General Hospital",
+			"type":"Major Acute",
+			"open24hrs":true,
+			"aAndeUnit":"Major A&E",
+			"address":"Dolgwili Road, Glangwili, Carmarthen",
+			"postcode":"SA31 2AF",
+			"mainNumber":"01267 235151",
+			"wards":[],
+			"IV":"R6t/0dwk4evHGcgg6gzL0Dyta+t+fvTzkjdlY2ORpds=",
+			"":,
+			"Decoded":"01267 235151"
+		},
+		{
+			"id":4,
+			"name":"Hereford County Hospital (England)",
+			"type":"Major Acute",
+			"open24hrs":true,
+			"aAndeUnit":"Major A&E",
+			"address":"Stonebow Road, Hereford",
+			"postcode":"HR1 2BN",
+			"mainNumber":"01432 355444",
+			"wards":[],
+			"IV":"n5rwhN4btsJTdMdKemQXJBi7/DLEWIsZr4+9DeMUFHs=",
+			"":,
+			"Decoded":"01432 355444"
+		}
+	]
+}
