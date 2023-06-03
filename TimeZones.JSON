@@ -1,0 +1,379 @@
+{
+"Data":[	
+	{
+		"Timezone":"UTC",
+		"UTC":"(UTC+00:00)",
+		"Timezone_description":"Coordinated Universal Time"
+	},
+	{
+		"Timezone":"Greenwich Standard Time",
+		"UTC":"(UTC+00:00)",
+		"Timezone_description":"Monrovia, Reykjavik"
+	},
+	{
+		"Timezone":"GMT Standard Time",
+		"UTC":"(UTC+00:00)",
+		"Timezone_description":"Dublin, Edinburgh, Lisbon, London"
+	},
+	{
+		"Timezone":"Morocco Standard Time",
+		"UTC":"(UTC+00:00)",
+		"Timezone_description":"Casablanca"
+	},
+	{
+		"Timezone":"Central Europe Standard Time",
+		"UTC":"(UTC+01:00)",
+		"Timezone_description":"Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+	},
+	{
+		"Timezone":"W. Central Africa Standard Time",
+		"UTC":"(UTC+01:00)",
+		"Timezone_description":"West Central Africa"
+	},
+	{
+		"Timezone":"W. Europe Standard Time",
+		"UTC":"(UTC+01:00)",
+		"Timezone_description":"Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+	},
+	{
+		"Timezone":"Romance Standard Time",
+		"UTC":"(UTC+01:00)",
+		"Timezone_description":"Brussels, Copenhagen, Madrid, Paris"
+	},
+	{
+		"Timezone":"Central European Standard Time",
+		"UTC":"(UTC+01:00)",
+		"Timezone_description":"Sarajevo, Skopje, Warsaw, Zagreb"
+	},
+	{
+		"Timezone":"Namibia Standard Time",
+		"UTC":"(UTC+01:00)",
+		"Timezone_description":"Windhoek"
+	},
+	{
+		"Timezone":"FLE Standard Time",
+		"UTC":"(UTC+02:00)",
+		"Timezone_description":"Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+	},
+	{
+		"Timezone":"South Africa Standard Time",
+		"UTC":"(UTC+02:00)",
+		"Timezone_description":"Harare, Pretoria"
+	},
+	{
+		"Timezone":"E. Europe Standard Time",
+		"UTC":"(UTC+02:00)",
+		"Timezone_description":"E. Europe"
+	},
+	{
+		"Timezone":"Egypt Standard Time",
+		"UTC":"(UTC+02:00)",
+		"Timezone_description":"Cairo"
+	},
+	{
+		"Timezone":"GTB Standard Time",
+		"UTC":"(UTC+02:00)",
+		"Timezone_description":"Athens, Bucharest"
+	},
+	{
+		"Timezone":"Israel Standard Time",
+		"UTC":"(UTC+02:00)",
+		"Timezone_description":"Jerusalem"
+	},
+	{
+		"Timezone":"Jordan Standard Time",
+		"UTC":"(UTC+02:00)",
+		"Timezone_description":"Amman"
+	},
+	{
+		"Timezone":"Middle East Standard Time",
+		"UTC":"(UTC+02:00)",
+		"Timezone_description":"Beirut"
+	},
+	{
+		"Timezone":"Syria Standard Time",
+		"UTC":"(UTC+02:00)",
+		"Timezone_description":"Damascus"
+	},
+	{
+		"Timezone":"Turkey Standard Time",
+		"UTC":"(UTC+02:00)",
+		"Timezone_description":"Istanbul"
+	},
+	{
+		"Timezone":"Arab Standard Time",
+		"UTC":"(UTC+03:00)",
+		"Timezone_description":"Kuwait, Riyadh"
+	},
+	{
+		"Timezone":"Belarus Standard Time",
+		"UTC":"(UTC+03:00)",
+		"Timezone_description":"Minsk"
+	},
+	{
+		"Timezone":"E. Africa Standard Time",
+		"UTC":"(UTC+03:00)",
+		"Timezone_description":"Nairobi"
+	},
+	{
+		"Timezone":"Arabic Standard Time",
+		"UTC":"(UTC+03:00)",
+		"Timezone_description":"Baghdad"
+	},
+	{
+		"Timezone":"Russian Standard Time",
+		"UTC":"(UTC+03:00)",
+		"Timezone_description":"Moscow, St. Petersburg, Volgograd (RTZ 2)"
+	},
+	{
+		"Timezone":"Iran Standard Time",
+		"UTC":"(UTC+03:30)",
+		"Timezone_description":"Tehran"
+	},
+	{
+		"Timezone":"Caucasus Standard Time",
+		"UTC":"(UTC+04:00)",
+		"Timezone_description":"Yerevan"
+	},
+	{
+		"Timezone":"Azerbaijan Standard Time",
+		"UTC":"(UTC+04:00)",
+		"Timezone_description":"Baku"
+	},
+	{
+		"Timezone":"Georgian Standard Time",
+		"UTC":"(UTC+04:00)",
+		"Timezone_description":"Tbilisi"
+	},
+	{
+		"Timezone":"Mauritius Standard Time",
+		"UTC":"(UTC+04:00)",
+		"Timezone_description":"Port Louis"
+	},
+	{
+		"Timezone":"Arabian Standard Time",
+		"UTC":"(UTC+04:00)",
+		"Timezone_description":"Abu Dhabi, Muscat"
+	},
+	{
+		"Timezone":"Afghanistan Standard Time",
+		"UTC":"(UTC+04:30)",
+		"Timezone_description":"Kabul"
+	},
+	{
+		"Timezone":"West Asia Standard Time",
+		"UTC":"(UTC+05:00)",
+		"Timezone_description":"Ashgabat, Tashkent"
+	},
+	{
+		"Timezone":"Pakistan Standard Time",
+		"UTC":"(UTC+05:00)",
+		"Timezone_description":"Islamabad, Karachi"
+	},
+	{
+		"Timezone":"India Standard Time",
+		"UTC":"(UTC+05:30)",
+		"Timezone_description":"Chennai, Kolkata, Mumbai, New Delhi"
+	},
+	{
+		"Timezone":"Sri Lanka Standard Time",
+		"UTC":"(UTC+05:30)",
+		"Timezone_description":"Sri Jayawardenepura"
+	},
+	{
+		"Timezone":"Nepal Standard Time",
+		"UTC":"(UTC+05:45)",
+		"Timezone_description":"Kathmandu"
+	},
+	{
+		"Timezone":"Bangladesh Standard Time",
+		"UTC":"(UTC+06:00)",
+		"Timezone_description":"Dhaka"
+	},
+	{
+		"Timezone":"Central Asia Standard Time",
+		"UTC":"(UTC+06:00)",
+		"Timezone_description":"Astana"
+	},
+	{
+		"Timezone":"Myanmar Standard Time",
+		"UTC":"(UTC+06:30)",
+		"Timezone_description":"Yangon (Rangoon)"
+	},
+	{
+		"Timezone":"SE Asia Standard Time",
+		"UTC":"(UTC+07:00)",
+		"Timezone_description":"Bangkok, Hanoi, Jakarta"
+	},
+	{
+		"Timezone":"Singapore Standard Time",
+		"UTC":"(UTC+08:00)",
+		"Timezone_description":"Kuala Lumpur, Singapore"
+	},
+	{
+		"Timezone":"China Standard Time",
+		"UTC":"(UTC+08:00)",
+		"Timezone_description":"Beijing, Chongqing, Hong Kong, Urumqi"
+	},
+	{
+		"Timezone":"Ulaanbaatar Standard Time",
+		"UTC":"(UTC+08:00)",
+		"Timezone_description":"Ulaanbaatar"
+	},
+	{
+		"Timezone":"Taipei Standard Time",
+		"UTC":"(UTC+08:00)",
+		"Timezone_description":"Taipei"
+	},
+	{
+		"Timezone":"Tokyo Standard Time",
+		"UTC":"(UTC+09:00)",
+		"Timezone_description":"Osaka, Sapporo, Tokyo"
+	},
+	{
+		"Timezone":"Korea Standard Time",
+		"UTC":"(UTC+09:00)",
+		"Timezone_description":"Seoul"
+	},
+	{
+		"Timezone":"AUS Eastern Standard Time",
+		"UTC":"(UTC+10:00)",
+		"Timezone_description":"Canberra, Melbourne, Sydney"
+	},
+	{
+		"Timezone":"West Pacific Standard Time",
+		"UTC":"(UTC+10:00)",
+		"Timezone_description":"Guam, Port Moresby"
+	},
+	{
+		"Timezone":"Central Pacific Standard Time",
+		"UTC":"(UTC+11:00)",
+		"Timezone_description":"Solomon Is., New Caledonia"
+	},
+	{
+		"Timezone":"Fiji Standard Time",
+		"UTC":"(UTC+12:00)",
+		"Timezone_description":"Fiji"
+	},
+	{
+		"Timezone":"UTC+12",
+		"UTC":"(UTC+12:00)",
+		"Timezone_description":"Coordinated Universal Time+12"
+	},
+	{
+		"Timezone":"New Zealand Standard Time",
+		"UTC":"(UTC+12:00)",
+		"Timezone_description":"Auckland, Wellington"
+	},
+	{
+		"Timezone":"Samoa Standard Time",
+		"UTC":"(UTC+13:00)",
+		"Timezone_description":"Samoa"
+	},
+	{
+		"Timezone":"Tonga Standard Time",
+		"UTC":"(UTC+13:00)",
+		"Timezone_description":"Nuku'alofa"
+	},
+	{
+		"Timezone":"Cape Verde Standard Time",
+		"UTC":"(UTC-01:00)",
+		"Timezone_description":"Cabo Verde Is."
+	},
+	{
+		"Timezone":"UTC-02",
+		"UTC":"(UTC-02:00)",
+		"Timezone_description":"Coordinated Universal Time-02"
+	},
+	{
+		"Timezone":"Pacific SA Standard Time",
+		"UTC":"(UTC-03:00)",
+		"Timezone_description":"Santiago"
+	},
+	{
+		"Timezone":"Argentina Standard Time",
+		"UTC":"(UTC-03:00)",
+		"Timezone_description":"City of Buenos Aires"
+	},
+	{
+		"Timezone":"E. South America Standard Time",
+		"UTC":"(UTC-03:00)",
+		"Timezone_description":"Brasilia"
+	},
+	{
+		"Timezone":"SA Eastern Standard Time",
+		"UTC":"(UTC-03:00)",
+		"Timezone_description":"Cayenne, Fortaleza"
+	},
+	{
+		"Timezone":"Greenland Standard Time",
+		"UTC":"(UTC-03:00)",
+		"Timezone_description":"Greenland"
+	},
+	{
+		"Timezone":"Montevideo Standard Time",
+		"UTC":"(UTC-03:00)",
+		"Timezone_description":"Montevideo"
+	},
+	{
+		"Timezone":"SA Western Standard Time",
+		"UTC":"(UTC-04:00)",
+		"Timezone_description":"Georgetown, La Paz, Manaus, San Juan"
+	},
+	{
+		"Timezone":"Atlantic Standard Time",
+		"UTC":"(UTC-04:00)",
+		"Timezone_description":"Atlantic Time (Canada)"
+	},
+	{
+		"Timezone":"Paraguay Standard Time",
+		"UTC":"(UTC-04:00)",
+		"Timezone_description":"Asuncion"
+	},
+	{
+		"Timezone":"Venezuela Standard Time",
+		"UTC":"(UTC-04:30)",
+		"Timezone_description":"Caracas"
+	},
+	{
+		"Timezone":"Eastern Standard Time",
+		"UTC":"(UTC-05:00)",
+		"Timezone_description":"Eastern Time (US & Canada)"
+	},
+	{
+		"Timezone":"SA Pacific Standard Time",
+		"UTC":"(UTC-05:00)",
+		"Timezone_description":"Bogota, Lima, Quito, Rio Branco"
+	},
+	{
+		"Timezone":"Central America Standard Time",
+		"UTC":"(UTC-06:00)",
+		"Timezone_description":"Central America"
+	},
+	{
+		"Timezone":"Central Standard Time (Mexico)",
+		"UTC":"(UTC-06:00)",
+		"Timezone_description":"Guadalajara, Mexico City, Monterrey"
+	},
+	{
+		"Timezone":"Mountain Standard Time",
+		"UTC":"(UTC-07:00)",
+		"Timezone_description":"Mountain Time (US & Canada)"
+	},
+	{
+		"Timezone":"Pacific Standard Time",
+		"UTC":"(UTC-08:00)",
+		"Timezone_description":"Pacific Time (US & Canada)"
+	},
+	{
+		"Timezone":"Hawaiian Standard Time",
+		"UTC":"(UTC-10:00)",
+		"Timezone_description":"Hawaii"
+	},
+	{
+		"Timezone":"UTC-11",
+		"UTC":"(UTC-11:00)",
+		"Timezone_description":"Coordinated Universal Time-11"
+	}
+]
+}
