@@ -9,7 +9,7 @@
       "office":"",
       "tags":[],
       "isLoggedUser":false,
-      "positionName":"",
+      "positionName":"Company",
       "size":""
     },
     {
@@ -22,7 +22,7 @@
       "office":"",
       "tags":[],
       "isLoggedUser":false,
-      "positionName":"",
+      "positionName":"Operations Director",
       "size":""
     },
     {
@@ -35,7 +35,7 @@
       "office":"",
       "tags":[],
       "isLoggedUser":false,
-      "positionName":"",
+      "positionName":"Business Development Director",
       "size":""
     },
     {
@@ -48,7 +48,7 @@
       "office":"",
       "tags":[],
       "isLoggedUser":false,
-      "positionName":"",
+      "positionName":"Health and Safety Consultant",
       "size":""
     },
     {
@@ -61,7 +61,7 @@
       "office":"",
       "tags":[],
       "isLoggedUser":false,
-      "positionName":"",
+      "positionName":"HR & Accounts Administrator",
       "size":""
     },
     {
@@ -74,7 +74,7 @@
       "office":"",
       "tags":[],
       "isLoggedUser":false,
-      "positionName":"",
+      "positionName":"HR Administration",
       "size":""
     }
   ]
