@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "parentId": "",
+      "name": "Wurkplace",
+      "imageUrl":"",
+      "area":"",
+      "profileUrl":"",
+      "office":"",
+      "tags":[],
+      "isLoggedUser":false,
+      "positionName":"",
+      "size":""
+    },
+    {
+      "id": 2,
+      "parentId": 1,
+      "name": "Karen Thomas",
+      "imageUrl":"https://wurkplace.co.uk/wp-content/uploads/2022/02/WEBSITE_karen-transparent-circle-COMPRESSED-300x300.webp",
+      "area":"",
+      "profileUrl":"",
+      "office":"",
+      "tags":[],
+      "isLoggedUser":false,
+      "positionName":"",
+      "size":""
+    },
+    {
+      "id": 3,
+      "parentId": 1,
+      "name": "Mark Whitfield",
+      "imageUrl":"https://wurkplace.co.uk/wp-content/uploads/2022/02/WEBSITE_mark-transparent-circle-COMPRESSED.png",
+      "area":"",
+      "profileUrl":"",
+      "office":"",
+      "tags":[],
+      "isLoggedUser":false,
+      "positionName":"",
+      "size":""
+    },
+    {
+      "id":4,
+      "parentId":2,
+      "name":"Sara McDermott",
+      "imageUrl":"https://wurkplace.co.uk/wp-content/uploads/2022/02/WEBSITE_sara-transparent-circle-COMPRESSED.png",
+      "area":"",
+      "profileUrl":"",
+      "office":"",
+      "tags":[],
+      "isLoggedUser":false,
+      "positionName":"",
+      "size":""
+    },
+    {
+      "id":5,
+      "parentId":2,
+      "name":"Georgia Woods",
+      "imageUrl":"https://wurkplace.co.uk/wp-content/uploads/2022/02/WEBSITE_georgia-transparent-circle-COMPRESSED.png",
+      "area":"",
+      "profileUrl":"",
+      "office":"",
+      "tags":[],
+      "isLoggedUser":false,
+      "positionName":"",
+      "size":""
+    },
+    {
+      "id":6,
+      "parentId":2,
+      "name":"Laura Jones",
+      "imageUrl":"https://wurkplace.co.uk/wp-content/uploads/2022/04/WEBSITE_laura-transparent-circle-COMPRESSED.png",
+      "area":"",
+      "profileUrl":"",
+      "office":"",
+      "tags":[],
+      "isLoggedUser":false,
+      "positionName":"",
+      "size":""
+    }
+  ]
